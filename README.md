@@ -56,3 +56,11 @@ This repository contains a Flutter-based Car Rental Application that allows user
 2. Advanced OOP was used in the project.
 3. Coding standards were properly followed.
 4. The calculations and details were properly viewed.
+
+## Bonus
+Let's say you have a Tesla in your system that charges $10 per hour and $50 per day. What occurs now if the car is rented for six hours? Is the customer willing to pay more than the daily rate for one-fourth of the period? Regarding the hourly, daily, and weekly rate systems, how do you handle this issue? Describe your solution in the readme file of your project.
+
+## Answer
+I think the lowest amount to rent a car for an hour should be fixed. After that, the rate will go up relative to the daily rent.
+Where the pricing should go from $10 to $50 for 1-24 hours.
+I would use $10 + ($50 * (Number of Hours - 1)) this formula to handle this situation.
