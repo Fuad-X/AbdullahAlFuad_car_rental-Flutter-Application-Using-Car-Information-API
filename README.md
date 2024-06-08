@@ -21,7 +21,7 @@ This repository contains the source code for a Flutter-based Car Rental Applicat
     Run the application on an emulator or physical device to test its functionalities.
 
 Reservation Details Page:
-![Screenshot_20240608_224639](https://github.com/Fuad-X/AbdullahAlFuad_car_rental-Flutter-Application-Using-Car-Information-API/assets/77972137/197350db-4d27-436e-bdd4-922cbd7d0365)
+![Screenshot_20240608_224639](https://github.com/Fuad-X/AbdullahAlFuad_car_rental-Flutter-Application-Using-Car-Information-API/assets/77972137/197350db-4d27-436e-bdd4-922cbd7d0365 | width=50)
 
 Customer Information Page:
 ![Screenshot_20240608_224702](https://github.com/Fuad-X/AbdullahAlFuad_car_rental-Flutter-Application-Using-Car-Information-API/assets/77972137/9335abab-6318-4b33-a85f-0db97d5e5fd1)
