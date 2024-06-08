@@ -64,3 +64,5 @@ Let's say you have a Tesla in your system that charges $10 per hour and $50 per 
 I think the lowest amount to rent a car for an hour should be fixed. After that, the rate will go up relative to the daily rent.
 Where the pricing should go from $10 to $50 for 1-24 hours.
 I would use $10 + ($50 * (Number of Hours - 1)) this formula to handle this situation.
+
+I could have implemented this. If I would have thought of it earlier. :-)
