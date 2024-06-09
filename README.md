@@ -47,9 +47,10 @@ This repository contains a Flutter-based Car Rental Application that allows user
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the project in an IDE like Android Studio or Visual Studio Code.
+2. Open the project in an IDE like Android Studio or Visual Studio Code. Android Studio is preferred.
 3. Ensure Flutter and Dart SDK are properly configured.
-4. Run the application on an emulator or physical device.
+4. Use in terminal ```flutter pub get```.
+5. Run the application on an emulator or physical device using ```flutter run``` or play button.
 
 ## Special
 1. Using FUAD2024 in Discount gives 15% Discount.
